@@ -1,0 +1,10 @@
+{
+  "description": "Showcases Sri Lankan travel destinations and services, helping tourists plan trips with detailed info and easy booking options.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
